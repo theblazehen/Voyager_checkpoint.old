@@ -1,0 +1,3 @@
+async function smeltThreeIronOres(bot) {
+    // The function is about smelting three iron ores into iron ingots. First, check if there are enough iron ores in the inventory, if not, mine the required amount. Next, check for a furnace and craft one if needed, then place it nearby. Ensure there is enough coal in the inventory, mining more if necessary. Finally, smelt the three iron ores using the furnace and coal as fuel, and notify the completion of the task.
+}
