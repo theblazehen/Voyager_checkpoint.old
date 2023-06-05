@@ -1,0 +1,3 @@
+async function openAndCheckChest(bot) {
+    // The function moves the bot to a specific chest location, opens it, and checks its contents. After completing the task, it reports the completion by mentioning the chest's coordinates.
+}
