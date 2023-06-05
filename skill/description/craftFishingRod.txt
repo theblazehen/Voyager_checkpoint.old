@@ -1,0 +1,3 @@
+async function craftFishingRod(bot) {
+    // The function is about crafting a fishing rod. First, it checks for a nearby crafting table or crafts one if needed. Then, it ensures there are enough sticks and strings in the inventory by crafting sticks or killing spiders for strings. Once the required materials are available, it crafts the fishing rod and reports the completion of the task.
+}
