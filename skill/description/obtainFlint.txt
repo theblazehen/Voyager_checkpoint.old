@@ -1,0 +1,3 @@
+async function obtainFlint(bot) {
+    // The function is about obtaining flint. It checks if the bot already has flint in the inventory. If not, it checks if the bot has gravel. If there's no gravel, the bot explores the surroundings to find some. Then, it mines gravel blocks until obtaining 1 flint. Once flint is obtained, the task is considered complete.
+}
