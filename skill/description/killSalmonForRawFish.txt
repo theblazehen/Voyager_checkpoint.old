@@ -1,0 +1,3 @@
+async function killSalmonForRawFish(bot) {
+    // The function is about killing a salmon to obtain raw fish using a wooden sword. First, check if a wooden sword is in the inventory and craft one if it's not available. Equip the wooden sword in the hand, and explore the surroundings to find a salmon. Once a salmon is found, kill it to obtain the raw fish.
+}
