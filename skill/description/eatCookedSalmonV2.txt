@@ -1,0 +1,3 @@
+async function eatCookedSalmon(bot) {
+    // The function checks if the bot has health greater than 0 and hunger less than 20. If so, it equips cooked salmon to the bot's hand and consumes it, then reports the completion of the task. If the hunger is already full, it notifies the user that the task is not necessary. If the health is too low, it reports that the task cannot be completed.
+}
