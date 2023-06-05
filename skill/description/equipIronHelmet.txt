@@ -1,0 +1,3 @@
+async function equipIronHelmet(bot) {
+    // The function checks if an iron helmet is present in the inventory. If found, it equips the iron helmet on the bot's head. If not found, it indicates the task has failed.
+}
