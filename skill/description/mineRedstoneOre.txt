@@ -1,0 +1,3 @@
+async function mineRedstoneOre(bot) {
+    // The function focuses on mining a single redstone ore block using an iron pickaxe. First, it searches for a nearby redstone ore or explores the surroundings to find one. Once found, the function equips the iron pickaxe from the inventory. Finally, it mines the redstone ore block using the iron pickaxe and reports the completion of the task.
+}
