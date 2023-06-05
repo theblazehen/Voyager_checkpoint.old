@@ -1,0 +1,3 @@
+async function craftChest(bot) {
+    // The function is about crafting a chest using spruce planks. First, check if there is already a chest in the inventory. If not, ensure there are enough spruce planks in the inventory, and if not, mine spruce logs and craft spruce planks. Then, place a crafting table if one is not already placed. Finally, craft the chest using 8 spruce planks and report the completion of the task.
+}
