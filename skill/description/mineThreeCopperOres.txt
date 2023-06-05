@@ -1,0 +1,3 @@
+async function mineThreeCopperOres(bot) {
+    // The function is about mining 3 copper ores using a stone pickaxe. First, check if the bot has a stone pickaxe in the inventory. If not, place a crafting table and craft a stone pickaxe. Once the stone pickaxe is available, mine a total of 3 copper ore blocks using the stone pickaxe. Finally, report the completion of the task.
+}
