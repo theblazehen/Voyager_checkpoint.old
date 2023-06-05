@@ -1,0 +1,3 @@
+async function equipIronLeggings(bot) {
+    // The function checks if the bot has iron leggings in its inventory, and if so, equips them; otherwise, it informs that there are no iron leggings in the inventory.
+}
