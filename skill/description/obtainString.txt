@@ -1,0 +1,3 @@
+async function obtainString(bot) {
+    // The function simply informs the user that the task of obtaining 1 string is already completed.
+}
