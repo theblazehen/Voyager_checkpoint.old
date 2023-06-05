@@ -1,0 +1,3 @@
+async function fishOneItem(bot) {
+    // The function is about fishing one item using a fishing rod. First, equip the fishing rod from the inventory. Then, explore the environment to find a body of water. If a water block is found, navigate to its location. Once there, fish for one item. Finally, report the completion of the task.
+}
