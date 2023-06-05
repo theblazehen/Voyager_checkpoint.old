@@ -1,0 +1,3 @@
+async function obtainString(bot) {
+    // The function is about obtaining a string by killing a spider using a wooden sword. First, equip the wooden sword if available in the inventory. Then, explore the surroundings to find a spider within a specified distance. If a spider is found, kill it using the wooden sword to obtain the string.
+}
