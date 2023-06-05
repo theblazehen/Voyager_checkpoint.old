@@ -1,0 +1,3 @@
+async function craftIronHelmet(bot) {
+    // The function is about crafting an iron helmet. First, it checks if there is a crafting table nearby. If not, it places a crafting table using the available inventory. Then, it crafts the iron helmet using 5 iron ingots. Finally, it reports the completion of the task.
+}
