@@ -1,0 +1,3 @@
+async function mineFiveIronOres(bot) {
+    // The function focuses on mining 5 iron ores using a stone pickaxe or higher-tier pickaxe. First, it searches for 5 iron ore blocks nearby or explores the surroundings to find them. If there are less than 5 iron ores nearby, it continues exploring until 5 iron ores are found. Once the iron ores are located, the function mines the 5 iron ore blocks. Finally, it reports the completion of the task by stating that 5 iron ores have been mined.
+}
