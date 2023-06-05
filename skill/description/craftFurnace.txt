@@ -1,0 +1,3 @@
+async function craftFurnace(bot) {
+    // The function is about crafting a furnace. First, check if there's a furnace in the inventory. If not, mine enough cobblestone blocks to have at least 8. Then, place a crafting table if one isn't already nearby. Next, craft the furnace using 8 cobblestone blocks. Finally, report the successful completion of the task.
+}
