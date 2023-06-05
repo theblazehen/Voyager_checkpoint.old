@@ -1,0 +1,3 @@
+async function craftBow(bot) {
+    // The function is about crafting a bow. First, it checks for a nearby crafting table or crafts one if needed. Then, it ensures there are enough sticks and strings in the inventory, crafting sticks or killing spiders for strings if necessary. Finally, it crafts the bow using 3 sticks and 3 strings and reports the completion of the task.
+}
