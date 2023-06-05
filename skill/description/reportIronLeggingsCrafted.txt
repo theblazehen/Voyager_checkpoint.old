@@ -1,0 +1,3 @@
+async function reportIronLeggingsCrafted(bot) {
+    // The function informs the user that the task of crafting iron leggings has already been completed.
+}
