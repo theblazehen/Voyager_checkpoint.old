@@ -1,0 +1,3 @@
+async function cookSalmon(bot) {
+    // The function is about cooking a salmon using a furnace. First, it checks if there's a furnace in the inventory and crafts one if needed. Next, it finds a suitable position to place the furnace and places it. Then, it ensures there's enough coal in the inventory, mining a coal_ore block if necessary. Afterward, it cooks the salmon using the furnace and coal as fuel. Finally, it reports the completion of the task.
+}
