@@ -1,0 +1,3 @@
+async function mineDeepslateIronOre(bot) {
+    // The function is about mining a deepslate iron ore block using an iron pickaxe. First, it looks for a deepslate iron ore block nearby or explores the surroundings to find one. Once the block is found, it equips an iron pickaxe from the inventory. Then, the deepslate iron ore block is mined using the iron pickaxe. Upon completion, a message is sent indicating that the task is completed and one deepslate iron ore has been mined.
+}
