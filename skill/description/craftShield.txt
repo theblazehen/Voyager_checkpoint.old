@@ -1,0 +1,3 @@
+async function craftShield(bot) {
+    // The function is about crafting a shield. It first checks if a shield is already in the inventory. If not, it ensures there are enough spruce planks and an iron ingot available. If necessary, the function mines spruce logs, crafts spruce planks, mines iron ore, and smelts raw iron. Then, it finds or places a crafting table and crafts the shield using spruce planks and the iron ingot. Upon completion, it reports the task as completed.
+}
