@@ -1,0 +1,3 @@
+async function fishFiveItems(bot) {
+    // The function is about fishing 5 items using a fishing rod. First, check if a fishing rod is in the inventory, and if not, craft one. Then, find a body of water to fish in. Equip the fishing rod in the hand and navigate to the water block. Fish 5 items, reporting each item caught. Finally, announce the completion of the task after fishing all 5 items.
+}
