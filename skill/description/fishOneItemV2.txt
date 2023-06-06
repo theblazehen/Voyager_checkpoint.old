@@ -1,0 +1,3 @@
+async function fishOneItem(bot) {
+    // The function is about fishing one item using a fishing rod. First, check if there is a fishing rod in the inventory, and if not, craft one. Then, find a body of water to fish in. Once a water source is found, equip the fishing rod in the hand. Next, navigate to the water block and fish one item. Finally, report the completion of the task.
+}
